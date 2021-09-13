@@ -1,5 +1,11 @@
 #include<iostream.h>
 #include<conio.h>
+
+/*
+Prints temple like structure based on user-input rows.
+Rows must be odd for this to work.
+Enter Rows >= 3. 
+*/
 void main()
 {
   clrscr();
